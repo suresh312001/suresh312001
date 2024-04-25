@@ -1,4 +1,4 @@
-<p align="left">console.log(hello universe)</p>
+<p align="center">console.log(hello universe)</p>
 
 ###
 
